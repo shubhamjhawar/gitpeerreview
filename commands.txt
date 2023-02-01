@@ -1,0 +1,16 @@
+1)
+$git init 
+$ git add .
+$ git commit -m “Message”
+
+
+$ git checkout -b hotfix production
+$ git checkout -b integration production
+
+2)
+
+$ git checkout -b feature1 integration
+$ git checkout -b feature2 integration
+
+
+3. Others done through GitHub
